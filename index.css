@@ -155,6 +155,8 @@ p
      text-align: center;
      width:100%;
    }
+   #first
+   {flex-direction: column;}
     header{
       padding-bottom:20px;
     }
